@@ -6,6 +6,10 @@ This is a standard supervised classification task by using Light GBM.
 
 This project starts with the Data Exploration to learn more what our data can tell us.
 
+You can access the dataset of this study at the following Kaggle Competition page
+
+Dataset => https://www.kaggle.com/c/home-credit-default-risk/data
+
 Overview of the Dataset
 
 + application_{train|test}.csv: This is a main table, broken into two files for Train (including TARGET) and Test (without TARGET).

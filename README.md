@@ -1,4 +1,4 @@
-It is really fact that many people are having problems to get loans due to insufficient or non-existent credit histories. Companies like Home Credit try to broaden financial inclusion for these struggled population by providing them a safe borrowing experience. It is for sure that Home Credit makes use of a differente data to predict their clients' repayment abilities.
+It is really fact that many people are having problems to get loans due to insufficient or non-existent credit histories. Companies like Home Credit try to broaden financial inclusion for these struggled population by providing them a safe borrowing experience. It is for sure that Home Credit makes use of a different data to predict their clients' repayment abilities.
 
 The aim of this project is to use historical loan application data provided by Home Credit to predict whether an applicant will be able to repay a loan or not. 
 
